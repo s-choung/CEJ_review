@@ -36,7 +36,7 @@
 		{"type":"text","text":"The M3GNet interatomic potential, based on graph neural networks and trained on a massive database from the Materials Project, enables accurate structural relaxation, dynamic simulations, and property prediction of diverse materials, accelerating the discovery of novel, stable, and exceptional materials.","id":"1275f868ccf98c4e","x":1233,"y":1224,"width":334,"height":263},
 		{"type":"text","text":"ocp check points","id":"a0ad69613a9527bb","x":686,"y":1254,"width":250,"height":60},
 		{"type":"text","text":"M3GNET https://www.nature.com/articles/s43588-022-00349-3","id":"e486bea7f9a11436","x":686,"y":1355,"width":506,"height":70,"color":"4"},
-		{"type":"text","text":"Matlantis- https://www.nature.com/articles/s41467-022-30687-9","id":"a30ff64c6fc2f8fd","x":696,"y":1495,"width":564,"height":52,"color":"4"},
+		{"type":"text","text":"Matlantis- https://www.nature.com/articles/s41467-022-30687-9","id":"a30ff64c6fc2f8fd","x":696,"y":1495,"width":564,"height":50,"color":"4"},
 		{"type":"text","text":"PUMCHEM QC https://pubs.acs.org/doi/10.1021/acs.jcim.7b00083","id":"15ac0e49d1a584dd","x":852,"y":579,"width":653,"height":50,"color":"4"},
 		{"type":"text","text":"(http://www.chemspider.com/","id":"586481a240104473","x":1198,"y":773,"width":250,"height":60},
 		{"type":"text","text":"ICSD, CSD, Chem Spider","id":"87b14aa3c74c036b","x":1204,"y":870,"width":250,"height":60},
