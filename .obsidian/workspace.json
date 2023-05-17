@@ -21,21 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "5c1db70ce9640814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new test.md",
+                "file": "CEJ review_230517.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new test.md",
+                "file": "CEJ review_230517.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new test.md"
+                "file": "CEJ review_230517.canvas"
               }
             }
           }
@@ -177,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c1db70ce9640814",
+  "active": "e382f2cb63549948",
   "lastOpenFiles": [
-    "CEJ review_230517.canvas",
     "new test.md",
+    "CEJ review_230517.canvas",
     "Test.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
