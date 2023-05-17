@@ -53,8 +53,7 @@
 		{"type":"text","text":"율리시 graph representation에 대한 논문 https://arxiv.org/abs/2204.02782","id":"27c34a7d0061d8ae","x":290,"y":-1220,"width":607,"height":136},
 		{"type":"text","text":"참고논문","id":"a6180503ddf5455c","x":-115,"y":-1182,"width":250,"height":60},
 		{"type":"text","text":"https://onlinelibrary.wiley.com/doi/10.1002/anie.202216383","id":"1bf8c2160a40bfa3","x":332,"y":-1280,"width":250,"height":60},
-		{"type":"text","text":"참고 review","id":"84279c9d8fcab032","x":-105,"y":-1280,"width":250,"height":60},
-		{"id":"d29631721656c992","x":1081,"y":-1035,"width":250,"height":60,"type":"text","text":"박원규 옵시디언 깃헙 연동 테스트"}
+		{"type":"text","text":"참고 review","id":"84279c9d8fcab032","x":-105,"y":-1280,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"4a56940f04899012","fromNode":"18f151a9f656b696","fromSide":"right","toNode":"c3251d56ca4bff9e","toSide":"left"},
