@@ -15,9 +15,9 @@
               "state": {
                 "file": "CEJ review_230517.canvas",
                 "viewState": {
-                  "x": -1139,
-                  "y": -1452,
-                  "zoom": 0
+                  "x": 540.2836809052484,
+                  "y": 464.2554156368843,
+                  "zoom": -1
                 }
               }
             }
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4ef1e576c8a13138",
