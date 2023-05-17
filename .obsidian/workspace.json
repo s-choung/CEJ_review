@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97f5d2375fe1c31f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,13 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e382f2cb63549948",
+  "active": "97f5d2375fe1c31f",
   "lastOpenFiles": [
-    "README.md",
-    "CEJ review_230517.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
+    "conflict-files-obsidian-git.md",
     "2023-05-17.md",
+    "CEJ review_230517.canvas",
+    "README.md",
+    "Test.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "CEJ review.canvas"
   ]
 }
