@@ -21,8 +21,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "6792829c02713e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CEJ review_230517.canvas",
+                "file": "Test.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CEJ review_230517.canvas",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CEJ review_230517.canvas"
+                "file": "Test.md"
               }
             }
           }
@@ -164,11 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e382f2cb63549948",
+  "active": "6792829c02713e9e",
   "lastOpenFiles": [
+    "CEJ review_230517.canvas",
+    "Test.md",
+    "Test.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "CEJ review_230517.canvas",
     "2023-05-17.md",
     "README.md",
     "CEJ review.canvas"
