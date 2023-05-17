@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "816a7bb579cccaa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a9ca2d1a60f89a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e382f2cb63549948",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CEJ review_230517.canvas",
+                "viewState": {
+                  "x": -1139,
+                  "y": -1452,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "516f61e7c6451c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bf71119a481d5db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a55b32a9b08b69ce",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "f5580e3d66f32c5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24aedb9c7fd00ac4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ad458f06c9db31a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ef1e576c8a13138",
+    "type": "split",
+    "children": [
+      {
+        "id": "afc921ecf8fc7380",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb499eba4b0954b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CEJ review_230517.canvas",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e0e8cbeb0367fef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CEJ review_230517.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eedb4dccea05a11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f3299cec68cf325",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CEJ review_230517.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e382f2cb63549948",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "CEJ review_230517.canvas",
+    "2023-05-17.md",
+    "README.md",
+    "CEJ review.canvas"
+  ]
+}
